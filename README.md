@@ -59,3 +59,8 @@ Para lograr un tablero dinámico y escalable se implementaron funcionalidades av
 <img width="1799" height="799" alt="dashboard_rentabilidad" src="https://github.com/user-attachments/assets/c049fb7f-21f7-43dc-80d8-5ab27b05bbcb" />
 
 
+## 👩‍💻 Autor
+
+**Adriana Folcher**  
+Data Analyst | SQL • Tableau • Power BI • Excel  
+🔗 [LinkedIn](https://www.linkedin.com/in/adriana-folcher-3b5681175/) | 📁 [Portafolio GitHub](https://github.com/AdrianaF91)
