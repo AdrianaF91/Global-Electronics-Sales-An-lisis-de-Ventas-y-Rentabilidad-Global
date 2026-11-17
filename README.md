@@ -55,7 +55,6 @@ Para lograr un tablero dinámico y escalable se implementaron funcionalidades av
 
 ## 🖼️ Vista Previa del Dashboard
 
-```markdown
 <img width="1799" height="799" alt="dashboard_ejecutivo" src="https://github.com/user-attachments/assets/89a7c07a-34e8-4c9c-a28b-547d6be24e1d" />
 <img width="1799" height="799" alt="dashboard_rentabilidad" src="https://github.com/user-attachments/assets/c049fb7f-21f7-43dc-80d8-5ab27b05bbcb" />
 
